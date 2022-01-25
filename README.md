@@ -1,5 +1,5 @@
 <h1 align="center">CED</h2>
-<p align="center">A free terminal text editor for Linux</p>
+<p align="center">A free terminal text editor for Linux written in C</p>
 
 -------------------
 # Installation
