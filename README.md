@@ -7,7 +7,7 @@
 
 ```
   $ git clone https://github.com/MrBigBoob/CED
-  $ cd C-EDIT
+  $ cd CED
   $ make
 ```
 -------------------
