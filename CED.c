@@ -1029,7 +1029,7 @@ void editorProcessKeypress() {
   quit_times = CED_QUIT_TIMES;
 }
 
-/*** init ***/
+/*** innit bruv ***/
 
 void initEditor() {
   E.cx = 0;
