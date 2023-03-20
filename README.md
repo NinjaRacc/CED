@@ -6,7 +6,7 @@
 <p>install and compile CED by running:</p>
 
 ```
-  $ git clone https://github.com/MrBigBoob/CED
+  $ git clone https://github.com/NinjaRacc/CED
   $ cd CED
   $ make
 ```
